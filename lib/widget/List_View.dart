@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_dash/flutter_dash.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:sizer/sizer.dart';
-
 import '../constants/colors.dart';
 import 'rating.dart';
 
